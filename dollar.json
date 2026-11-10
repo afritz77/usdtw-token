@@ -1,0 +1,6 @@
+{
+  "name": "DOLLAR",
+  "symbol": "DOLLAR",
+  "description": "DOLLAR — fixed-supply dollar token on Solana. $1.00 peg maintained by protocol-owned liquidity.",
+  "image": "https://raw.githubusercontent.com/afritz77/usdtw-token/main/whale-logo.png"
+}
